@@ -36,7 +36,7 @@
 
 ###
 
-<p align="left">Hello World!!</p>
+<p align="left">Portfólio : projetos de análise e ciências de dados desenvolvidos para o meu portfólio<br>-Artigos : meus artigos no Medium, LinkedIn e outras plataformas que tratam da área de dados em geral<br>-Cursos : resumos e documentos de conteúdo que estudei ou que estou estudando</p>
 
 ###
 
@@ -49,11 +49,12 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
+  <a href="www.linkedin.com/in/tiago-valask" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://medium.com/@tiago.kv" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
+  </a>
 </div>
-
-###
-
-<p align="left">Hello World!!</p>
 
 ###
