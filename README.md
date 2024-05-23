@@ -44,6 +44,16 @@
 
 ###
 
-<p align="left">-www.linkedin.com/in/tiago-valaski<br><br><br>-https://medium.com/@tiago.kv</p>
+<h2 align="left">🖥 Tech Skills</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
+</div>
+
+###
+
+<p align="left">Hello World!!</p>
 
 ###
