@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">-👨‍🎓 Sou formado em Ciências Econômicas pela FESP .<br><br>-👨‍💻  Possuo  experiência em áreas administrativa, econômica e contábil.<br><br>-🔭 Atualmente estou focado na áreas de Análise de Dados</p>
+<p align="left">👨‍🎓 Sou formado em Ciências Econômicas pela FESP .<br><br>👨‍💻  Possuo  experiência em áreas administrativa, econômica e contábil.<br><br>🔭 Atualmente estou focado na áreas de Análise de Dados</p>
 
 ###
 
