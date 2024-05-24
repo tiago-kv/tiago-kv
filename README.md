@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">-Este é meu repositório de Análise de Dados.</p>
+<p align="left">Este é meu repositório de Análise de Dados.</p>
 
 ###
 
