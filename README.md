@@ -36,7 +36,7 @@
 
 ###
 
-<p align="left">Portfólio : projetos de análise e ciências de dados desenvolvidos para o meu portfólio<br>-Artigos : meus artigos no Medium, LinkedIn e outras plataformas que tratam da área de dados em geral<br>-Cursos : resumos e documentos de conteúdo que estudei ou que estou estudando</p>
+<p align="left">Portfólio : projetos de análise e ciências de dados desenvolvidos para o meu portfólio<br>Artigos : meus artigos no Medium, LinkedIn e outras plataformas que tratam da área de dados em geral<br>Cursos : resumos e documentos de conteúdo que estudei ou que estou estudando</p>
 
 ###
 
