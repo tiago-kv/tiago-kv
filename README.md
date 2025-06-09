@@ -1,20 +1,22 @@
-<p align="left">Este é meu repositório de Análise de Dados e Cieêci de Dados.</p>
+<p align="left">Este é meu repositório de projetos em Análise e Ciência de Dados.</p>
 
 ---
 
-<p align="left">🚀 **Confira meu portfólio completo:** [Seu Site Aqui](https://www.seusite.com)</p>
+<p align="left">🚀 <strong>Confira meu portfólio completo:</strong> [Seu Site Aqui](https://www.seusite.com)</p>
 
 ---
 
-<h2 align="left">About me</h2>
+<h2 align="left">📌 Sobre mim</h2>
+
+<p align="left">
+👨‍🎓 Graduado em Ciências Econômicas pela FESP.<br><br>
+👨‍💻 Experiência nas áreas administrativa, econômica e contábil.<br><br>
+🔭 Atualmente focado em transição e especialização na área de Análise de Dados.
+</p>
 
 ---
 
-<p align="left">👨‍🎓 Sou formado em Ciências Econômicas pela FESP.<br><br>👨‍💻 Possuo experiência em áreas administrativa, econômica e contábil.<br><br>🔭 Atualmente estou focado na área de Análise de Dados</p>
-
----
-
-<h2 align="left">🖥 Tech Skills</h2>
+<h2 align="left">🛠️ Tech Skills</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo" />
@@ -40,25 +42,20 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" height="40" alt="Excel logo" />
 </div>
 
-
-</div>
-
 ---
 
-<p align="left">🗺 Guia de Repositórios</p>
+<h2 align="left">📁 Guia dos Repositórios</h2>
 
----
-
-<p align="left">**Portfólio** : projetos de análise e ciências de dados desenvolvidos para o meu portfólio<br>**Artigos** : meus artigos no Medium, LinkedIn e outras plataformas que tratam da área de dados em geral<br>**Cursos** : resumos e documentos de conteúdo que estudei ou que estou estudando</p>
+<p align="left">
+<strong>Portfólio:</strong> Projetos de Análise e Ciência de Dados desenvolvidos para fins de estudo e exibição de habilidades.<br>
+<strong>Artigos:</strong> Textos publicados no Medium, LinkedIn e outras plataformas com foco em dados.<br>
+<strong>Cursos:</strong> Resumos e materiais produzidos durante o aprendizado de ferramentas e técnicas da área.
+</p>
 
 ---
 
 <h2 align="left">🌐 Redes</h2>
 
----
-
-<p align="left">Confira mais sobre meu trabalho e projetos no meu site/portfólio: [Seu Site Aqui](https://www.seusite.com)</p>
-
----
-
-<h2 align="left">🖥 Tech Skills</h2>
+<p align="left">
+Confira mais sobre meu trabalho e projetos no meu portfólio: [Seu Site Aqui](https://www.seusite.com)
+</p>
