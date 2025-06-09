@@ -27,7 +27,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
   <img width="12" />
@@ -35,12 +35,16 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=powerbi" height="40" alt="Power BI logo" style="vertical-align: middle;" /> 
+  <!-- Power BI: usaremos um link direto de imagem -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40" alt="Power BI logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=googlesheets" height="40" alt="Google Sheets logo" style="vertical-align: middle;" /> 
+  <!-- Google Sheets -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Google_Sheets_2020_Logo.svg" height="40" alt="Google Sheets logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=excel" height="40" alt="Excel logo" style="vertical-align: middle;" />
+  <!-- Excel -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" height="40" alt="Excel logo" />
 </div>
+
 
 </div>
 
