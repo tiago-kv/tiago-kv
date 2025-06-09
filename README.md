@@ -2,16 +2,22 @@
 
 ---
 
-<p align="left">🚀 <strong>Confira meu portfólio completo:</strong> [Seu Site Aqui](https://www.seusite.com)</p>
+<p align="left">🚀 <strong>Confira meus projetos aplicados:</strong> [Portfólio - Tiago Klein](https://sites.google.com/view/portfoliotiagoklein/in%C3%ADcio)</p>
 
 ---
 
 <h2 align="left">📌 Sobre mim</h2>
 
 <p align="left">
-👨‍🎓 Graduado em Ciências Econômicas pela FESP.<br><br>
-👨‍💻 Experiência nas áreas administrativa, econômica e contábil.<br><br>
-🔭 Atualmente focado em transição e especialização na área de Análise de Dados.
+🎓 Economista formado pela FESP, com experiência nas áreas contábil, administrativa e econômica.<br><br>
+
+📊 Atualmente, atuo com foco em Análise de Dados e Modelagem Estatística, aplicando soluções práticas para extração de valor a partir de grandes volumes de dados.<br><br>
+
+📈 Tenho experiência na construção de dashboards interativos no Power BI, manipulação de dados em SQL, e desenvolvimento de modelos estatísticos e preditivos para suporte à tomada de decisão.<br><br>
+
+💻 Conhecimentos técnicos incluem Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Statsmodels, Beautiful Soup, Selenium), além de R, SQL e Excel.<br><br>
+
+📂 Já desenvolvi projetos na área econômica e empresarial, incluindo análises de custo em saúde, regressão linear, e modelos preditivos com Random Forest, XGBoost e LightGBM.
 </p>
 
 ---
@@ -47,24 +53,21 @@
 <h2 align="left">📁 Guia dos Repositórios</h2>
 
 <p align="left">
-<strong>Portfólio:</strong> Projetos de Análise e Ciência de Dados desenvolvidos para fins de estudo e exibição de habilidades.<br>
-<strong>Artigos:</strong> Textos publicados no Medium, LinkedIn e outras plataformas com foco em dados.<br>
-<strong>Cursos:</strong> Resumos e materiais produzidos durante o aprendizado de ferramentas e técnicas da área.
+<strong>Portfólio:</strong> Projetos aplicados de Análise e Ciência de Dados.<br>
+<strong>Artigos:</strong> Textos sobre dados publicados no Medium, LinkedIn e outras plataformas.<br>
+<strong>Cursos:</strong> Resumos, anotações e materiais de estudos em andamento ou concluídos.
 </p>
-
----
 
 ---
 
 <h2 align="left">🌐 Redes</h2>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/tiago-valaski/" target="_blank">
+  <a href="https://www.linkedin.com/in/seu-perfil" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn logo" />
   </a>
   <img width="12" />
-  <a href="https://medium.com/@tiago.kv/premissas-da-regress%C3%A3o-linear-estimadores-blue-0d0921aeafab" target="_blank">
+  <a href="https://medium.com/@seu-usuario" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/medium.svg" height="40" alt="Medium logo" style="filter: invert(1);" />
   </a>
 </p>
-
