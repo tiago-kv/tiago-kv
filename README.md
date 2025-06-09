@@ -9,15 +9,12 @@
 <h2 align="left">📌 Sobre mim</h2>
 
 <p align="left">
-🎓 Economista formado pela FESP, com experiência nas áreas contábil, administrativa e econômica.<br><br>
+Economista com experiência nas áreas contábil, administrativa e econômica, focado em analise de dados e modelagem estatística.
+  
+Tenho experiência prática na construção de dashboards no Power BI, manipulação de grandes volumes de dados em SQL e aplicação de modelagem estatística para tomada de decisões. Possuo conhecimento em Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Statsmodels,Beautiful Soup,Selenium), além de R e Excel.
 
-📊 Atualmente, atuo com foco em Análise de Dados e Modelagem Estatística, aplicando soluções práticas para extração de valor a partir de grandes volumes de dados.<br><br>
+Desenvolvi projetos na área econômica e empresarial, incluindo análise de custos de saúde e modelagem preditiva com regressão linear, Random Forest, XGBoost e LightGBM
 
-📈 Tenho experiência na construção de dashboards interativos no Power BI, manipulação de dados em SQL, e desenvolvimento de modelos estatísticos e preditivos para suporte à tomada de decisão.<br><br>
-
-💻 Conhecimentos técnicos incluem Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Statsmodels, Beautiful Soup, Selenium), além de R, SQL e Excel.<br><br>
-
-📂 Já desenvolvi projetos na área econômica e empresarial, incluindo análises de custo em saúde, regressão linear, e modelos preditivos com Random Forest, XGBoost e LightGBM.
 </p>
 
 ---
