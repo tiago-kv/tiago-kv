@@ -35,13 +35,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo" />
   <img width="12" />
-  <!-- Power BI: usaremos um link direto de imagem -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40" alt="Power BI logo" />
   <img width="12" />
-  <!-- Google Sheets -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Google_Sheets_2020_Logo.svg" height="40" alt="Google Sheets logo" />
-  <img width="12" />
-  <!-- Excel -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" height="40" alt="Excel logo" />
 </div>
 
