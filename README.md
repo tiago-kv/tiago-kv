@@ -16,7 +16,6 @@
 
 <h2 align="left">🖥 Tech Skills</h2>
 
----
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo" />
   <img width="12" />
@@ -36,13 +35,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=powerbi" height="40" alt="Power BI logo" /> 
+  <img src="https://skillicons.dev/icons?i=powerbi" height="40" alt="Power BI logo" style="vertical-align: middle;" /> 
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=googlesheets" height="40" alt="Google Sheets logo" /> 
+  <img src="https://skillicons.dev/icons?i=googlesheets" height="40" alt="Google Sheets logo" style="vertical-align: middle;" /> 
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=excel" height="40" alt="Excel logo" /> </div>
-  <img width="12" />
-  
+  <img src="https://skillicons.dev/icons?i=excel" height="40" alt="Excel logo" style="vertical-align: middle;" />
+</div>
+
 </div>
 
 ---
