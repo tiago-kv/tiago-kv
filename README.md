@@ -54,8 +54,17 @@
 
 ---
 
+---
+
 <h2 align="left">🌐 Redes</h2>
 
 <p align="left">
-Confira mais sobre meu trabalho e projetos no meu portfólio: [Seu Site Aqui](https://www.seusite.com)
+  <a href="https://www.linkedin.com/in/tiago-valaski/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn logo" />
+  </a>
+  <img width="12" />
+  <a href="https://medium.com/@tiago.kv/premissas-da-regress%C3%A3o-linear-estimadores-blue-0d0921aeafab" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/medium.svg" height="40" alt="Medium logo" style="filter: invert(1);" />
+  </a>
 </p>
+
