@@ -1,4 +1,4 @@
-<p align="left">Este é meu repositório de projetos em Análise e Ciência de Dados.</p>
+<p align="left">Seja bem Vindo!! Ao meu repositório de projetos de Análise e Ciência de Dados.</p>
 
 ---
 
