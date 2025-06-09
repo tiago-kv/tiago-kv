@@ -6,7 +6,7 @@
 
 ---
 
-<p align="left">🚀 **Confira meu portfólio completo:** ([https://www.seusite.com](https://sites.google.com/view/portfoliotiagoklein/in%C3%ADcio))</p>
+<p align="left">🚀 **Confira meu portfólio completo:** (https://sites.google.com/view/portfoliotiagoklein/in%C3%ADcio)</p>
 
 ---
 
