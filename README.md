@@ -2,7 +2,7 @@
 
 ---
 
-<p align="left"> <strong>Confira meus projetos aplicados:</strong> [Portfólio - Tiago Klein](https://sites.google.com/view/portfoliotiagoklein/in%C3%ADcio)</p>
+<p align="left"> <strong>Confira meus projetos aplicados:</strong> (https://sites.google.com/view/portfoliotiagoklein/in%C3%ADcio)</p>
 
 ---
 
