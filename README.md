@@ -39,7 +39,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" height="40" alt="Power BI logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=googlesheets" height="40" alt="Google Sheets logo" /> <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-plain.svg" height="40" alt="Excel logo" /> </div>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-plain.svg" height="40" alt="Excel logo" /> 
+  <img width="12" />
+
+</div>
 
 ---
 
