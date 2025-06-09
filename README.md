@@ -36,10 +36,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=powerbi" height="40" alt="Power BI logo" /> <img width="12" />
-  <img src="https://skillicons.dev/icons?i=googlesheets" height="40" alt="Google Sheets logo" /> <img width="12" />
+  <img src="https://skillicons.dev/icons?i=powerbi" height="40" alt="Power BI logo" /> 
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=googlesheets" height="40" alt="Google Sheets logo" /> 
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=excel" height="40" alt="Excel logo" /> </div>
-
+  <img width="12" />
+  
 </div>
 
 ---
