@@ -28,7 +28,7 @@ Olá! Me chamo **Tiago Klein**, sou economista com sólida experiência nas áre
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Python]([https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue))
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 ---
