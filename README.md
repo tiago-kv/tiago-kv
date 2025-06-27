@@ -21,7 +21,6 @@ Olá! Me chamo **Tiago Klein**, sou economista com sólida experiência nas áre
 - Modelagem preditiva com **Regressão Linear**, **Random Forest**, **XGBoost** e **LightGBM**
 
 ---
-## 🛠️ Skills
 
 ## 🛠️ Skills
 
@@ -86,15 +85,8 @@ Coleta automatizada de indicadores macroeconômicos com BeautifulSoup e Selenium
 
 Se quiser trocar uma ideia ou acompanhar meu trabalho, me encontre nas redes:
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/seu-perfil" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" />
-  </a>
-  <img width="12" />
-  <a href="https://medium.com/@seu-usuario" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/medium.svg" height="40" style="filter: invert(1);" />
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@seu-usuario)
 
 ---
 
