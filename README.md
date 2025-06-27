@@ -34,10 +34,10 @@ Olá! Me chamo **Tiago Klein**, sou economista com sólida experiência nas áre
 ![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
+
 ## 🌐 Portfólio Completo
 
-🔗 Confira meus projetos aplicados no meu site:  
-👉 [https://sites.google.com/view/portfoliotiagoklein/in%C3%ADcio](https://sites.google.com/view/portfoliotiagoklein/in%C3%ADcio)
+[![Website](https://img.shields.io/badge/Portfólio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sites.google.com/view/portfoliotiagoklein/in%C3%ADcio)
 
 ---
 
